@@ -1,0 +1,7 @@
+users.db
+.vscode
+__pycache__
+media/
+static/
+templates/
+Train/ 
